@@ -23,7 +23,7 @@ A modern and responsive chat application built with React and Tailwind CSS. User
 
 ```bash
 git clone https://github.com/sam123227/msgflow-chat-app.git
-cd msgflow-chat-app
+cd chat-app
 npm install
 npm run dev
 ```
