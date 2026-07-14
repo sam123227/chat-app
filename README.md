@@ -32,6 +32,9 @@ npm run dev
 
 ![Chat App](./screenshots/chat.png)
 
+## 🌐 Live Demo
+
+https://chat-app-phi-mocha-37.vercel.app/
 
 
 ## 🎯 Learning Outcomes
