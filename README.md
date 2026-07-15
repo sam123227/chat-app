@@ -1,4 +1,4 @@
- Chat App
+# Chat App
 
 A modern and responsive chat application built with React and Tailwind CSS. Users can switch between conversations, send messages, and manage chats through a clean and intuitive interface.
 
